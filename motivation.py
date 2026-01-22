@@ -1,4 +1,5 @@
 import random
+#comentario de este programa vimos estas funciones 
 
 def generate_random_list(length, min_val=-10, max_val=10):
     """Generates a list of random integers of the specified length."""
